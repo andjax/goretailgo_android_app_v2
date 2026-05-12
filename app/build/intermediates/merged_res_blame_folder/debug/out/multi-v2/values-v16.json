@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.poentry.app-mergeDebugResources-38:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Andy\\.gradle\\caches\\9.3.1\\transforms\\7f0a10c0969a4d544003c59d064a4f60\\workspace\\transformed\\core-1.12.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
